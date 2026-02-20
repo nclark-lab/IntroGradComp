@@ -3,9 +3,13 @@ introduction to R, python, and computational skills in general for Biological Sc
 
 ### Computational skills form a spectrum of depth
   Each level brings benefits:
+  
   _light_ - making figures, exploring data
+  
   _medium_ - scripting computational jobs
+  
   _heavy_ - new functions / applications
+  
   _deep_ - production-level software
 
 ### Code repositories
