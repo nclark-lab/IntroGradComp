@@ -13,22 +13,27 @@ introduction to R, python, and computational skills in general for Biological Sc
 
 ---
 ### R
+Statistics, Arrays and matrices  
 Figures  
 	figures with ggplot2 - [https://www.datacamp.com/doc/r/graphics-with-ggplot2](https://www.datacamp.com/doc/r/graphics-with-ggplot2)  
 	R Graphics Cookbook - [http://www.cookbook-r.com/Graphs/](http://www.cookbook-r.com/Graphs/)  
-Statistics, Arrays and matrices  
 Tidyverse - [https://tidyverse.org/](https://tidyverse.org/)  
 R for Data Science - [https://r4ds.hadley.nz/](https://r4ds.hadley.nz/)  
 Shiny apps  
 
+---
+
 ### Python  
 Better for large datasets and intense computation  
-Machine Learning -  
-Genomics -  
 Anaconda environments  
-	Pandas  is similar to Tidyverse  
+Packages - 
+ - Machine Learning -  numpy pytorch
+ - Genomics - lots!
+ - Pandas  is similar to Tidyverse  
+Learning python - [https://www.python.org/about/gettingstarted/](https://www.python.org/about/gettingstarted/)
 
 ---
+
 ### History
   Terminal  
   	BASH - Bourne shell environment - [https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html](https://tldp.org/HOWTO/Bash-Prog-Intro-HOWTO.html)  
@@ -45,12 +50,15 @@ Anaconda environments
  - Jupyter notebooks  
  - Rstudio  
 
+---
+
 ### How to get help
 Books  
+ - O'Reilly series of books  
 Web resources  
-	Stack overflow  
-  "Cheatsheets" - [https://posit.co/resources/cheatsheets/](https://posit.co/resources/cheatsheets/)  
-	AI - Claude  
+ - Stack overflow  
+ - "Cheatsheets" - [https://posit.co/resources/cheatsheets/](https://posit.co/resources/cheatsheets/)  
+ - AI - Claude  
 		Syntax. Must know to correct.  
 		Pitt Claude "getting started" - [https://services.pitt.edu/TDClient/33/Portal/KB/ArticleDet?ID=3357](https://services.pitt.edu/TDClient/33/Portal/KB/ArticleDet?ID=3357)  
 [CRCD workshops and archives: 
@@ -59,15 +67,23 @@ Health Sciences Library System - [https://www.hsls.pitt.edu/instruction/learn-at
 Dr. Stephanie Spielman's guide to data science resources  
 [https://sjspielman.github.io/resources.html](https://sjspielman.github.io/resources.html)
 
+---
+
 ### Clusters
 Allows parallelization of many jobs.  
 Access to high memory (RAM) or GPU processors.  
-  CRCD - [https://crc-pages.pitt.edu/user-manual/](https://crc-pages.pitt.edu/user-manual/)  
-   - Terminal  
-   - GUI interface - R, Python  
+Pitt's Center for Research Computing and Data - [CRCD](https://crc.pitt.edu/)
+- User Manual [https://crc-pages.pitt.edu/user-manual/](https://crc-pages.pitt.edu/user-manual/)
+- Your PI can get free account and get you an allocation today. Instructions on CRCD site. Help tickets.
+- CRCD has _lots_ of programs and environments already installed. They are loaded with a "module" command.
+	
+How to interface with cluster:
+- Terminal  
+- GUI interface - R, Python  
 
 ### FTPs _file transfer protocols_
 How to move files back and forth from a cluster  
+How to move files:
  - sftp
  - cyberduck GUI
 
