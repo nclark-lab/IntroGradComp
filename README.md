@@ -2,10 +2,8 @@
 introduction to R, python, and computational skills in general for Biological Sciences grad programs
 
 ### Computational skills form a spectrum of depth
-  Each level brings benefits:
-  
-  _light_ - making figures, exploring data
-  
+  Each level brings benefits:  
+  _light_ - making figures, exploring data  
   _medium_ - scripting computational jobs
   
   _heavy_ - new functions / applications
