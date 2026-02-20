@@ -12,7 +12,7 @@ introduction to R, python, and computational skills in general for Biological Sc
 ### Code repositories
   GitHub - https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
 
-
+---
 ### R
 Figures, Statistics, Arrays and matrices 
 How to learn
@@ -25,7 +25,7 @@ R for Data Science - https://r4ds.hadley.nz/
 ### Python
 
 
-
+---
 ### History
   Terminal only
   BBEdit
