@@ -60,10 +60,10 @@ Web resources
  - "Cheatsheets" - [https://posit.co/resources/cheatsheets/](https://posit.co/resources/cheatsheets/)  
  - AI - Claude  
 		Syntax. Must know to correct.  
-		Pitt Claude "getting started" - [https://services.pitt.edu/TDClient/33/Portal/KB/ArticleDet?ID=3357](https://services.pitt.edu/TDClient/33/Portal/KB/ArticleDet?ID=3357)  
+		Pitt Claude "getting started" - [https://services.pitt.edu/TDClient/33/Portal/KB/ArticleDet?ID=3357](https://services.pitt.edu/TDClient/33/Portal/KB/ArticleDet?ID=3357)   
 [CRCD workshops and archives: 
-https://crc.pitt.edu/crc-workshops/bioinformatics-workshops](https://crc.pitt.edu/crc-workshops/bioinformatics-workshops)
-Health Sciences Library System - [https://www.hsls.pitt.edu/instruction/learn-at-hsls-current](https://www.hsls.pitt.edu/instruction/learn-at-hsls-current)
+https://crc.pitt.edu/crc-workshops/bioinformatics-workshops](https://crc.pitt.edu/crc-workshops/bioinformatics-workshops)  
+Health Sciences Library System - [https://www.hsls.pitt.edu/instruction/learn-at-hsls-current](https://www.hsls.pitt.edu/instruction/learn-at-hsls-current)  
 Dr. Stephanie Spielman's guide to data science resources  
 [https://sjspielman.github.io/resources.html](https://sjspielman.github.io/resources.html)
 
